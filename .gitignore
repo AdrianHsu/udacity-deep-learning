@@ -1,0 +1,5 @@
+answer
+*.png
+*.tar.gz
+notMINST_*
+.ipynb_checkpoints
