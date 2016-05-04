@@ -3,3 +3,4 @@ answer
 *.tar.gz
 notMINST_*
 .ipynb_checkpoints
+*.pickle
